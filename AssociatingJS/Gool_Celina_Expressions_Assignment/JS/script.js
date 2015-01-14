@@ -3,13 +3,14 @@
  */
 //Prompt and Alert
 
-//Calculate the Circumference of a Circle
+//Calculate the age of a dog in human and dog years
 
-var radius = 6;
-const Pl = 3.14159265;
+var name = prompt("What is your dog name?");
+var humagAge =prompt("What is your dog human age?");
 
-//multiply 2, Pl and the radius & assign to circ variable.
-var circ = radius * 2 * Pl;
+//multiply 7 and the humanAge & assign to dogAge variable.
+var dogAge = humagAge * 7;
 
-//print out the output circumference
-console.log("The circumference of the circle is" + circ);
+//print out the output age
+console.log("The sum of humanAge, dogAge, & userInput for humanAge * 7");
+alert(name + dogAge)
