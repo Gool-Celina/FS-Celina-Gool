@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56cc5c53-9de8-4a2a-b5d0-07ed0a5df156" name="Default" comment="" />
+    <list default="true" id="56cc5c53-9de8-4a2a-b5d0-07ed0a5df156" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SDI/AssociatingJS/Gool_Celina_Expressions_Assignment/JS/script.js" afterPath="$PROJECT_DIR$/SDI/AssociatingJS/Gool_Celina_Expressions_Assignment/JS/script.js" />
+    </list>
     <ignored path="FS-Celina-Gool.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +39,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SDI/AssociatingJS/Gool_Celina_Expressions_Assignment/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45833334" vertical-offset="0" max-vertical-offset="720">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.4375" vertical-offset="0" max-vertical-offset="720">
+              <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -50,6 +52,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SDI/AssociatingJS/Gool_Celina_Expressions_Assignment/JS/script.js" />
+      </list>
+    </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -316,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SDI/AssociatingJS/Gool_Celina_Expressions_Assignment/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45833334" vertical-offset="0" max-vertical-offset="720">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.4375" vertical-offset="0" max-vertical-offset="720">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

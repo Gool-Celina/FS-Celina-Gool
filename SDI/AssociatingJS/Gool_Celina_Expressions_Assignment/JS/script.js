@@ -9,15 +9,16 @@ Expression Assignment
 
 //Calculate the age of a dog in human and dog years
 
-var name = prompt("What is your dog name?");
-var humagAge =prompt("What is your dog human age?");
+var numberSlice = prompt("How many slices is the pizza?");
+var numberPeople =prompt("How many people on the guest list?");
+var numberPizza = prompt("How many pizza ordered?");
 
-//multiply 7 and the humanAge & assign to dogAge variable.
-var dogAge = humagAge * 7;
 
-//print out the output age
-console.log("The sum of humanAge, dogAge, & userInput for humanAge * 7");
+var total = prompt(numberSlice /numberPeople);
 
-var number = parseInt(humagAge*7);
-console.log( number);
-alert(name + dogAge)
+
+//multiply number of boxes of pizza by the slices per box & then divide it by the number of people
+
+//print out the output of how much each person will eat
+
+alert(numberSlice /numberPeople);
