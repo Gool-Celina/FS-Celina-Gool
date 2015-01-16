@@ -21,10 +21,13 @@ var goldWeight = prompt("How much does your gold weigh in grams?");
 //Set the Troy Ounce variable
 var gramsPerTroyOunce = 31.1034768;
 
+//Calculate the value of the gold.
 var goldValue = goldWeight/gramsPerTroyOunce*goldOzPrice;
 
+//Alerting the gold value to the user.
 prompt("Your gold is worth $"+goldValue+".");
 
+//Printing results.
 console.log("Your gold is worth $"+goldValue+".");
 
 
