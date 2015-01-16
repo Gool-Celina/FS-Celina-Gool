@@ -28,12 +28,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/index.html" />
-        <option value="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/Gool_Celina_Expressions_Assignment/index.html" />
-        <option value="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/js/script.js" />
-        <option value="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/Gool_Celina_Expressions_Assignment/script.js" />
-        <option value="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/Gool_Celina_Expressions_Assignment/JS/script.js1.js" />
-        <option value="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/Gool_Celina_Expressions_Assignment/JS/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Gool_Celina_Expressions_Assignment/index.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/Gool_Celina_Expressions_Assignment/script.js" />
+        <option value="$PROJECT_DIR$/Gool_Celina_Expressions_Assignment/JS/script.js1.js" />
+        <option value="$PROJECT_DIR$/Gool_Celina_Expressions_Assignment/JS/script.js" />
       </list>
     </option>
   </component>
@@ -56,7 +56,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -68,9 +68,29 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssociatingJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="AssociatingJS">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
     </panes>
   </component>
@@ -82,11 +102,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/Gool_Celina_Expressions_Assignment" />
-      <recent name="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS" />
+      <recent name="$PROJECT_DIR$/Gool_Celina_Expressions_Assignment" />
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Documents/FS-Celina-Gool/AssociatingJS/Gool_Celina_Expressions_Assignment/JS" />
+      <recent name="$PROJECT_DIR$/Gool_Celina_Expressions_Assignment/JS" />
     </key>
   </component>
   <component name="RunManager">
@@ -185,5 +205,23 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/scopes/scope_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2910">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
