@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56cc5c53-9de8-4a2a-b5d0-07ed0a5df156" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3 Screen Cast Conditional/JS/script.js" afterPath="$PROJECT_DIR$/Week 3 Screen Cast Conditional/JS/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FS-Celina-Gool.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +73,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3 Screen Cast Conditional/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="720">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.27083334" vertical-offset="0" max-vertical-offset="720">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -552,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3 Screen Cast Conditional/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="720">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.27083334" vertical-offset="0" max-vertical-offset="720">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding />
         </state>
       </provider>
