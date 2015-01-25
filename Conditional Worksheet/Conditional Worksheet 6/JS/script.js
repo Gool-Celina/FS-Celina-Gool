@@ -21,6 +21,6 @@ var timeOfMovie=prompt("In what hour does the movie start? For example, if 2:00,
 if(customerAge>55||timeOfMovie<6&&timeOfMovie>2){
     console.log("The ticket price is"+discountPrice+"!");
 }else{
-    console.log("The ticket price is"+regularPrice+"!");
-    alert("The ticket price is regular price +");
+    console.log("The ticket price is "+regularPrice+"!");
+    alert("The ticket price is" +regularPrice+".");
 }
