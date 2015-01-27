@@ -5,16 +5,14 @@
  Function Videos
  */
 
-//Functions - Variable Scope
+//Functions - Parameters and Arguments (How Old is the Dog?)
 
-var width=5;
 
-function calcArea(){
-    var width=20;
-    var height=30;
-    var area=width * height;
-    console.log(area);
+function dogYears(age){
+
+    var dogYears=age * 7;
+    console.log("Sparky is" + dogYears) + "yearsOld";
 }
 
-calcArea();
-console.log(width)
+dogYears(4);
+dogYears(5);
