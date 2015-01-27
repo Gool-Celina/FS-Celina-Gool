@@ -5,18 +5,15 @@
  Function Videos
  */
 
-//Functions - Function vs Procedures
-//this is a function
+//Functions - Function Anonymous
 
 
-function calcAreaF(width,height){
 
+var calcArea= function(width,height){
+    //code the function runs
     var area=width * height;
     return area;
 }
 
-//This is a procedure
-function calcAreaP(width,heigth){
-    var area=width * heigth;
-    console.log(area);
-}
+var a=calcArea(20,30);
+console.log(a);
