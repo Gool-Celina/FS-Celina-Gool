@@ -5,14 +5,13 @@
  Function Videos
  */
 
-//Functions - Parameters and Arguments (How Old is the Dog?)
+//Functions - Returning Value
 
+var total=calcArea(30,20);
+function calcArea(w,h){
 
-function dogYears(age){
-
-    var dogYears=age * 7;
-    console.log("Sparky is" + dogYears) + "yearsOld";
+    var area=w * h;
+    return area;
 }
 
-var age1=4;
-dogYears(aged1);
+console.log(total);
