@@ -5,11 +5,11 @@
  Function Videos
  */
 
-//Functions - Basic Structure
+//Functions - Variable Scope
 
-console.log("Hello World");
+var width=5;
 
-function outptMsg(){
+function calcArea(){
     var width=20;
     var height=30;
     var area=width * height;
@@ -17,3 +17,4 @@ function outptMsg(){
 }
 
 calcArea();
+console.log(width)
