@@ -11,3 +11,11 @@ var killerStingsLb=8.666666667
 
 //Establish victim weight
 var victimWeightLb=265
+
+//Create function to calculate number of bee stings required to kill a sting victim
+function calcStingsToKill(victimWeightLb){
+    //Calculation
+    var killerBeeStings=victimWeightLb/killerStingsLb;
+    //Return value
+    return killerBeeStings;
+}
