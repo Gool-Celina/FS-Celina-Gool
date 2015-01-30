@@ -1,4 +1,9 @@
-
+/**
+ Celina Gool
+ Jan. 29, 2015
+ SDI Section 3
+ Function Worksheet Circumference
+ */
 
 
 
@@ -19,3 +24,7 @@ function calculateCircumference(r){
     //console.log(circumference);
     return circumference;
 }
+//Assign variable to output
+var circumferenceCircle=calculateCircumference(radius);
+//Print output variable value
+console.log(circumferenceCircle);
