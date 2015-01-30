@@ -9,3 +9,5 @@
 //Establish killer bee stings per pound
 var killerStingsLb=8.666666667
 
+//Establish victim weight
+var victimWeightLb=265
