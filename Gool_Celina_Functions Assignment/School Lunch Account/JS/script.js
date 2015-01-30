@@ -17,4 +17,9 @@ var radius;
 function calcSphereVol (r){
     //V=4/3(pi)r ^ 3
     //Calculate volume
-}
+}var sphereVol=4/3*Math.PI(r*r*r, 3));
+//Return the volume
+return sphereVol;
+
+//Grabbing the returned value
+var sphereVolume=calcSphereVol(radius);
