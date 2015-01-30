@@ -9,3 +9,12 @@
 //Get user choice
 var cubeOrSphere=prompt("We are calculating the volume of a box or a sphere in cubic inches." +
 "For a box, enter 1. For a sphere, enter 2.");
+
+//Declare and define given radius (variable)
+var radius;
+
+//Create a function to calculate sphere volume
+function calcSphereVol (r){
+    //V=4/3(pi)r ^ 3
+    //Calculate volume
+}
